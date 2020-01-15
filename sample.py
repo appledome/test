@@ -1,2 +1,2 @@
 print Hello!!
-atom git commit
+atom git commitment
